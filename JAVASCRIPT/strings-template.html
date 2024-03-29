@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>JavaScript Strings</h1>
+<p>You can use quotes inside a string, as long as they don't match the quotes surrounding the string.</p>
+
+<p id="demo"></p>
+
+<script>
+let answer1 = "It's alright";
+let answer2 = "He is called 'Johnny'";
+let answer3 = 'He is called "Johnny"'; 
+
+document.getElementById("demo").innerHTML =
+answer1 + "<br>" + answer2 + "<br>" + answer3; 
+</script>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>JavaScript Template Strings</h1>
+<p>Templates allow multiline strings:</p>
+
+<p id="demo1"></p>
+
+<p>Templates are not supported in Internet Explorer.</p>
+
+<script>
+let text1 =
+
+`The quick
+brown fox
+jumps over
+the lazy dog`;
+
+document.getElementById("demo1").innerHTML = text1;
+</script>
+
+</body>
+</html>

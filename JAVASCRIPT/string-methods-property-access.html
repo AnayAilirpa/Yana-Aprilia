@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>JavaScript Strings</h1>
+<p>Property access on strings:</p>
+
+<p>The first character in the string is:</p>
+<p id="demo"></p>
+
+<script>
+let text = "HELLO WORLD";
+document.getElementById("demo").innerHTML = text[0];
+</script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>JavaScript Strings</h1>
+<p>Property acces on strings are read only:</p>
+
+<p id="demo1"></p>
+
+<script>
+let text1 = "HELLO WORLD";
+
+text1[0] = "A";  // Does not work
+
+document.getElementById("demo1").innerHTML = text1;
+</script>
+
+</body>
+</html>

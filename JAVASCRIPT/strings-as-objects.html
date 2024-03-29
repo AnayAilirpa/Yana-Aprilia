@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>JavaScript Strings</h1>
+
+<p id="demo1"></p>
+
+<script>
+// x is a string
+let x1 = "John";
+
+// y is an object
+let y1 = new String("John");
+
+document.getElementById("demo1").innerHTML =
+typeof x1 + "<br>" + typeof y1;
+</script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Never Create Strings as Objects</h2>
+<p>Strings and objects cannot be safely compared.</p>
+
+<p id="demo2"></p>
+
+<script>
+let x2 = "John";        // x is a string
+let y2 = new String("John");  // y is an object
+document.getElementById("demo2").innerHTML = (x2==y2);
+</script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Never Create Strings as Objects</h2>
+<p>Strings and objects cannot be safely compared.</p>
+
+<p id="demo3"></p>
+
+<script>
+let x3 = "John";        // x is a string
+let y3 = new String("John");  // y is an object
+document.getElementById("demo3").innerHTML = (x3===y3);
+</script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Never Create Strings as Objects</h2>
+<p>JavaScript objects cannot be compared.</p>
+
+<p id="demo4"></p>
+
+<script>
+let x4 = new String("John");  // x is an object
+let y4 = new String("John");  // y is an object
+document.getElementById("demo4").innerHTML = (x4==y4);
+</script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Never Create Strings as Objects</h2>
+<p>JavaScript objects cannot be compared.</p>
+
+<p id="demo5"></p>
+
+<script>
+let x5 = new String("John");  // x is an object
+let y5 = new String("John");  // y is an object
+document.getElementById("demo5").innerHTML = (x5===y5);
+</script>
+
+</body>
+</html>
