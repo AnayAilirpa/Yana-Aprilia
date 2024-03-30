@@ -121,7 +121,7 @@ Contoh:
 
 ![JavaScript eksternal](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/005b03b8-3e4f-4550-803c-01b2b182de92)
 
-Berikut isi file myScript js:
+Berikut isi file myScript.js:
 
 ![myScript js](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/f3a2fd03-f74e-4c76-a055-0b4388110a9b)
 
