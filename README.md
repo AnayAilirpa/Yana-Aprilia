@@ -52,18 +52,18 @@ Dengan hasil output:
 
 * `p { font-family: verdana; font-size: 20px; }`: Digunakan untuk menetapkan gaya untuk tag `<p>` di mana jenis hurufnya akan menggunakan font Verdana dan ukuran fontnya adalah 20 piksel.
 
-### 3. JAVASCRIPT
-JavaScript adalah sebuah markup language yang biasanya digunakan untuk meningkatkan interaktivitas pada halaman web. Berikut adalah contoh program JAVASCRIPT:
+### 3. JavaScript
+JavaScript adalah sebuah markup language yang biasanya digunakan untuk meningkatkan interaktivitas pada halaman web. Berikut adalah contoh program JavaScript:
 
-![JAVASCRIPT input](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/8e29505b-00bb-4482-821c-5a858e7a4136)
+![JavaScript input](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/8e29505b-00bb-4482-821c-5a858e7a4136)
 
 Dengan hasil output sebelum tombol "Click me to display Date and Time." diklik:
 
-![JAVASCRIPT output-before](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/3435a80a-dcfb-4b24-a9a2-e3705015a5a6)
+![JavaScript output-before](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/3435a80a-dcfb-4b24-a9a2-e3705015a5a6)
 
 Dengan hasil output setelah tombol "Click me to display Date and Time." diklik:
 
-![JAVASCRIPT output-after](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/366f54e8-11ad-406f-b7f1-4a54f4373cee)
+![JavaScript output-after](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/366f54e8-11ad-406f-b7f1-4a54f4373cee)
 
 #### Penjelasan 
 * `<button>`: adalah sebuah tombol yang menampilkan teks "Click me to display Date and Time.". Ketika tombol ini diklik, JavaScript akan dieksekusi. Dengan `</button>` sebagai penutup dari element tersebut.
@@ -85,6 +85,40 @@ Dengan hasil output setelah tombol "Click me to display Date and Time." diklik:
   * `innerHTML`: adalah sebuah properti JavaScript yang dimiliki oleh objek elemen HTML yang digunakan untuk mengatur atau mengambil isi HTML dari sebuah elemen HTML.
  
   * `Date()`: Sedangkan `Date()` adalah sebuah objek JavaScript bawaan yang merepresentasikan tanggal dan waktu saat ini ketika dipanggil tanpa argumen.
+
+## Pembahasan Tambahan
+1. CSS
+Dalam HTML, kode CSS biasanya disisipkan di antara tag `<style>` dan `</style>`. Biasanya diletakkan di bagian paling bawah dalam tag `<head>` dan `</head>`.
+
+Namun, bisa juga CSS berada di file yang berbeda dengan file HTML. Dengan itu, setiap halaman HTML harus menyertakan referensi ke file style sheet eksternal di dalamnya elemen `<link>`, di dalam bagian head.
+
+Contoh: 
+
+![CSS eksternal](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/8f380410-4386-45d6-afb8-5ae49f591547)
+
+Berikut isi file mystyle.css:
+
+![mystyle css](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/c3cd061a-1a74-4e06-9dea-883566d56feb)
+
+3. JavaScript
+Dalam HTML, kode JavaScript biasanya disisipkan di antara tag `<script>` dan `</script>`. Biasanya diletakkan di bagian paling bawah dalam tag `<body>` dan `</body>`.
+
+Contoh program JavaScript dengan tag `<script>` dan `</script>`:
+![JavaScript input0](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/3f18a73b-0329-48cb-9c7e-846bbe5275b5)
+
+Dengan hasil output:
+
+![JavaScript output0](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/9d7ac2a8-7936-471d-a14b-ff869425c7bd)
+
+Namun, bisa juga JavaScript berada di file yang berbeda dengan file HTML. Dengan itu, setiap halaman HTML harus menyertakan referensi ke file JavaScript eksternal di dalamnya elemen `src <script>`, di dalam bagian body.
+
+Contoh:
+
+![JavaScript eksternal](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/005b03b8-3e4f-4550-803c-01b2b182de92)
+
+Berikut isi file myScript js:
+
+![myScript js](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/f3a2fd03-f74e-4c76-a055-0b4388110a9b)
 
 ## Sumber Pembelajaran 
 https://www.w3schools.com
