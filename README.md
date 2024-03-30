@@ -100,6 +100,10 @@ Berikut isi file mystyle.css:
 
 ![mystyle css](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/c3cd061a-1a74-4e06-9dea-883566d56feb)
 
+Hasil output:
+
+![CSS akhir](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/637e15f0-4982-45e8-b054-63481b12cbac)
+
 3. JavaScript
 Dalam HTML, kode JavaScript biasanya disisipkan di antara tag `<script>` dan `</script>`. Biasanya diletakkan di bagian paling bawah dalam tag `<body>` dan `</body>`.
 
@@ -119,6 +123,14 @@ Contoh:
 Berikut isi file myScript js:
 
 ![myScript js](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/f3a2fd03-f74e-4c76-a055-0b4388110a9b)
+
+Hasil output sebelum tombol "Try it" diklik:
+
+![JS akhir before](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/ab064ec7-be18-48bf-ad68-dc3f4e0cdebc)
+
+Hasil output sesudah tombol "Try it" diklik:
+
+![JS akhir after](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/72a22a42-77c0-4a1f-82ab-4a210c054552)
 
 ## Sumber Pembelajaran 
 https://www.w3schools.com
