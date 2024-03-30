@@ -108,6 +108,7 @@ Hasil output:
 Dalam HTML, kode JavaScript biasanya disisipkan di antara tag `<script>` dan `</script>`. Biasanya diletakkan di bagian paling bawah dalam tag `<body>` dan `</body>`.
 
 Contoh program JavaScript dengan tag `<script>` dan `</script>`:
+
 ![JavaScript input0](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/3f18a73b-0329-48cb-9c7e-846bbe5275b5)
 
 Dengan hasil output:
