@@ -104,7 +104,7 @@ Hasil output:
 
 ![CSS akhir](https://github.com/AnayAilirpa/Yana-Aprilia/assets/165096298/637e15f0-4982-45e8-b054-63481b12cbac)
 
-3. JavaScript
+2. JavaScript
 Dalam HTML, kode JavaScript biasanya disisipkan di antara tag `<script>` dan `</script>`. Biasanya diletakkan di bagian paling bawah dalam tag `<body>` dan `</body>`.
 
 Contoh program JavaScript dengan tag `<script>` dan `</script>`:
